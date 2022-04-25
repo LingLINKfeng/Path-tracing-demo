@@ -1,0 +1,25 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:27.03.2022 22:58:26
+
+mtllib leftwall.mtl
+
+#
+# object cornell_box
+#
+
+v  -27.1600 -27.4400 -27.9600
+v  -27.8000 27.4400 -27.9600
+v  -27.8000 27.4400 27.9600
+v  -27.4800 -27.4400 27.9600
+# 4 vertices
+
+vn 1.0000 0.0087 0.0029
+# 1 vertex normals
+
+o cornell_box
+g cornell_box
+usemtl cbox_red
+s off
+f -4//-1 -3//-1 -2//-1 -1//-1 
+# 1 polygons
+
